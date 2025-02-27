@@ -1,0 +1,1 @@
+Four machine learning techniques—Decision Tree, Random Forest, Logistic Regression, and Naïve Bayes—are used to predict wine quality, which is the dependent variable, based on eleven independent variables that represent the characteristics observed once the bottle of wine is opened.
